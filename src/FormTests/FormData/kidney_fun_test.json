@@ -1,0 +1,123 @@
+{
+  "KidneyFunctionTests": [
+    {
+      "Name": "Blood Urea Nitrogen (BUN)",
+      "About": "Measures the amount of nitrogen in the blood that comes from the waste product urea. It indicates how well the kidneys are working.",
+      "NormalRange": "7-20 mg/dL",
+      "CausesEffects": {
+        "HighBUN": "Kidney dysfunction, dehydration, high protein diet.",
+        "LowBUN": "Liver disease, malnutrition, overhydration."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Consume a balanced diet with moderate protein intake, plenty of fruits, vegetables, and whole grains.",
+          "Donts": "Avoid excessive protein, high-sodium foods, and processed foods."
+        },
+        "Exercises": {
+          "Dos": "Engage in regular moderate exercise like walking, cycling, and swimming.",
+          "Donts": "Avoid intense exercise that can cause dehydration or strain the kidneys."
+        }
+      }
+    },
+    {
+      "Name": "Serum Creatinine",
+      "About": "A waste product from muscle metabolism, filtered by the kidneys. Elevated levels can indicate impaired kidney function.",
+      "NormalRange": "0.6-1.2 mg/dL",
+      "CausesEffects": {
+        "HighCreatinine": "Kidney disease, high muscle mass, dehydration.",
+        "LowCreatinine": "Low muscle mass, severe liver disease."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Stay hydrated and eat a kidney-friendly diet with limited protein, phosphorus, and potassium.",
+          "Donts": "Avoid red meat, processed foods, and high-sodium items."
+        },
+        "Exercises": {
+          "Dos": "Engage in light to moderate aerobic exercises like walking and cycling.",
+          "Donts": "Avoid heavy weightlifting and high-intensity workouts."
+        }
+      }
+    },
+    {
+      "Name": "Glomerular Filtration Rate (GFR)",
+      "About": "Estimates how much blood passes through the glomeruli each minute. It's a key indicator of kidney function.",
+      "NormalRange": "90-120 mL/min/1.73 m²",
+      "CausesEffects": {
+        "HighGFR": "Generally indicates good kidney function.",
+        "LowGFR": "Chronic kidney disease, acute kidney injury."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Follow a diet low in sodium, phosphorus, and potassium. Eat plenty of fruits, vegetables, and whole grains.",
+          "Donts": "Avoid high-protein diets and foods high in phosphorus and potassium."
+        },
+        "Exercises": {
+          "Dos": "Regular moderate exercise like walking, swimming, and yoga.",
+          "Donts": "Avoid dehydration and excessive physical stress."
+        }
+      }
+    },
+    {
+      "Name": "Urinalysis",
+      "About": "Examines the content of urine for abnormalities, including protein, glucose, and blood, to help detect kidney disorders.",
+      "NormalRange": "Varies based on specific measurements (e.g., protein, glucose, etc.)",
+      "CausesEffects": {
+        "HighAbnormalValues": "Kidney disease, urinary tract infections, diabetes.",
+        "LowAbnormalValues": "Generally not a concern."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Stay hydrated and maintain a balanced diet low in sodium and sugar.",
+          "Donts": "Avoid excessive sugar, high-sodium foods, and foods that can irritate the bladder."
+        },
+        "Exercises": {
+          "Dos": "Regular moderate exercise like walking and swimming.",
+          "Donts": "Avoid exercises that can cause dehydration or put stress on the bladder."
+        }
+      }
+    },
+    {
+      "Name": "Serum Electrolytes",
+      "About": "Measures levels of electrolytes (sodium, potassium, chloride, bicarbonate) that are essential for normal kidney function.",
+      "NormalRange": {
+        "Sodium": "135-145 mmol/L",
+        "Potassium": "3.5-5.0 mmol/L",
+        "Chloride": "98-107 mmol/L",
+        "Bicarbonate": "22-29 mmol/L"
+      },
+      "CausesEffects": {
+        "HighElectrolytes": "Kidney dysfunction, dehydration, certain medications.",
+        "LowElectrolytes": "Overhydration, malnutrition, certain medical conditions."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat a balanced diet with appropriate levels of electrolytes, and stay hydrated.",
+          "Donts": "Avoid excessive intake of processed foods, high-sodium foods, and potassium-rich foods if levels are high."
+        },
+        "Exercises": {
+          "Dos": "Engage in moderate exercise, staying hydrated and balancing electrolytes.",
+          "Donts": "Avoid excessive sweating and dehydration without electrolyte replenishment."
+        }
+      }
+    },
+    {
+      "Name": "Microalbuminuria",
+      "About": "Measures the amount of albumin in the urine. High levels can indicate kidney damage.",
+      "NormalRange": "Less than 30 mg/g",
+      "CausesEffects": {
+        "HighMicroalbuminuria": "Early kidney disease, especially in diabetics and hypertensives.",
+        "LowMicroalbuminuria": "Generally not a concern."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Maintain a diet low in sodium, sugar, and saturated fats. Focus on fruits, vegetables, and whole grains.",
+          "Donts": "Avoid high-sodium foods, sugary foods, and excessive protein intake."
+        },
+        "Exercises": {
+          "Dos": "Regular moderate exercise like walking, swimming, and biking.",
+          "Donts": "Avoid high-impact or strenuous activities that may stress the kidneys."
+        }
+      }
+    }
+  ]
+}

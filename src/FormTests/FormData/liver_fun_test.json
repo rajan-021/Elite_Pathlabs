@@ -1,0 +1,118 @@
+{
+  "LiverFunctionTests": [
+    {
+      "Name": "Alanine Aminotransferase (ALT)",
+      "About": "An enzyme found in the liver that helps convert proteins into energy for the liver cells. Elevated levels can indicate liver damage.",
+      "NormalRange": "7-56 U/L",
+      "CausesEffects": {
+        "HighALT": "Liver disease, hepatitis, cirrhosis, and fatty liver disease.",
+        "LowALT": "Generally not a concern but may indicate malnutrition or other health issues."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat a balanced diet with plenty of fruits, vegetables, lean proteins, and whole grains.",
+          "Donts": "Avoid alcohol, excessive sugar, and fatty foods."
+        },
+        "Exercises": {
+          "Dos": "Engage in regular moderate exercise like walking, swimming, and cycling.",
+          "Donts": "Avoid strenuous activities that can cause fatigue and stress on the liver."
+        }
+      }
+    },
+    {
+      "Name": "Aspartate Aminotransferase (AST)",
+      "About": "An enzyme found in the liver and heart. Elevated levels can indicate liver damage or other health issues.",
+      "NormalRange": "10-40 U/L",
+      "CausesEffects": {
+        "HighAST": "Liver disease, heart problems, muscle damage, and pancreatitis.",
+        "LowAST": "Generally not a concern."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Consume antioxidant-rich foods like berries, nuts, and green leafy vegetables.",
+          "Donts": "Avoid alcohol and processed foods high in fat and sugar."
+        },
+        "Exercises": {
+          "Dos": "Regular light to moderate exercise such as walking, yoga, and swimming.",
+          "Donts": "Avoid high-intensity workouts that can stress the muscles and liver."
+        }
+      }
+    },
+    {
+      "Name": "Alkaline Phosphatase (ALP)",
+      "About": "An enzyme related to the bile ducts; often increased when they are blocked.",
+      "NormalRange": "44-147 U/L",
+      "CausesEffects": {
+        "HighALP": "Liver disease, bile duct obstruction, and bone disorders.",
+        "LowALP": "Malnutrition, celiac disease, and hypothyroidism."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat foods rich in vitamin D and calcium such as dairy products, fish, and fortified cereals.",
+          "Donts": "Avoid excessive alcohol and foods high in trans fats."
+        },
+        "Exercises": {
+          "Dos": "Weight-bearing exercises like walking and resistance training to support bone health.",
+          "Donts": "Avoid overly strenuous activities that can lead to injury or stress."
+        }
+      }
+    },
+    {
+      "Name": "Bilirubin",
+      "About": "A substance produced during the normal breakdown of red blood cells. High levels may indicate liver or bile duct problems.",
+      "NormalRange": "0.1-1.2 mg/dL",
+      "CausesEffects": {
+        "HighBilirubin": "Liver disease, bile duct blockage, hemolytic anemia.",
+        "LowBilirubin": "Generally not a concern."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Stay hydrated and eat fiber-rich foods like fruits, vegetables, and whole grains.",
+          "Donts": "Avoid alcohol and fatty foods that can overwork the liver."
+        },
+        "Exercises": {
+          "Dos": "Regular moderate exercise such as walking, cycling, and swimming.",
+          "Donts": "Avoid high-impact exercises if jaundice or other symptoms are present."
+        }
+      }
+    },
+    {
+      "Name": "Albumin",
+      "About": "A protein made by the liver, important for maintaining the osmotic pressure needed for proper distribution of body fluids.",
+      "NormalRange": "3.5-5.0 g/dL",
+      "CausesEffects": {
+        "HighAlbumin": "Dehydration or high protein intake.",
+        "LowAlbumin": "Liver disease, kidney disease, malnutrition, or inflammation."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Consume adequate protein through lean meats, dairy, legumes, and nuts.",
+          "Donts": "Avoid excessive alcohol and processed foods."
+        },
+        "Exercises": {
+          "Dos": "Engage in regular physical activity to maintain overall health.",
+          "Donts": "Avoid extreme diets or over-exercising, which can affect protein levels."
+        }
+      }
+    },
+    {
+      "Name": "Gamma-Glutamyl Transferase (GGT)",
+      "About": "An enzyme involved in the transfer of amino acids and peptides across the cellular membrane. Elevated levels may indicate liver or bile duct issues.",
+      "NormalRange": "9-48 U/L",
+      "CausesEffects": {
+        "HighGGT": "Liver disease, bile duct problems, excessive alcohol consumption.",
+        "LowGGT": "Generally not a concern."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat a diet rich in antioxidants and low in fat, such as fruits, vegetables, and whole grains.",
+          "Donts": "Avoid alcohol, fried foods, and high-sugar snacks."
+        },
+        "Exercises": {
+          "Dos": "Incorporate regular moderate exercise like walking, yoga, and swimming.",
+          "Donts": "Avoid heavy lifting and intense workouts if liver problems are present."
+        }
+      }
+    }
+  ]
+}

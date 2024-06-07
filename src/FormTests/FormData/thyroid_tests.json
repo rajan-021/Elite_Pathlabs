@@ -1,0 +1,128 @@
+{
+  "thyroid_tests": [
+    {
+      "name": "TSH (Thyroid Stimulating Hormone)",
+      "about": "TSH is produced by the pituitary gland and stimulates the thyroid gland to produce thyroid hormones.",
+      "normal_range": "0.4 - 4.0 mIU/L",
+      "causes_effects": {
+        "high": "May indicate hypothyroidism (underactive thyroid).",
+        "low": "May indicate hyperthyroidism (overactive thyroid)."
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Consume iodine-rich foods like fish, dairy, and eggs.",
+            "Include selenium-rich foods like Brazil nuts and sunflower seeds."
+          ],
+          "don't": [
+            "Avoid excessive soy products.",
+            "Limit goitrogenic foods like raw cruciferous vegetables (e.g., cabbage, broccoli)."
+          ]
+        },
+        "exercises": {
+          "do": [
+            "Engage in moderate-intensity cardio exercises like walking or cycling.",
+            "Include strength training to support muscle mass."
+          ],
+          "don't": [
+            "Avoid high-intensity exercises if you have severe hypothyroidism.",
+            "Do not overexert yourself if you experience fatigue."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Free T4 (Free Thyroxine)",
+      "about": "Free T4 is the unbound thyroxine in the blood, which is available to the tissues.",
+      "normal_range": "0.8 - 1.8 ng/dL",
+      "causes_effects": {
+        "high": "May indicate hyperthyroidism or thyroid hormone resistance.",
+        "low": "May indicate hypothyroidism or pituitary gland dysfunction."
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Ensure adequate protein intake to support hormone transport.",
+            "Maintain balanced intake of vitamins and minerals."
+          ],
+          "don't": [
+            "Avoid high-fat diets that can interfere with hormone absorption.",
+            "Limit caffeine and alcohol consumption."
+          ]
+        },
+        "exercises": {
+          "do": [
+            "Practice stress-reducing activities like yoga or tai chi.",
+            "Incorporate flexibility exercises to enhance joint mobility."
+          ],
+          "don't": [
+            "Avoid prolonged sedentary behavior.",
+            "Do not engage in overly strenuous activities that could stress the body."
+          ]
+        }
+      }
+    },
+    {
+      "name": "Free T3 (Free Triiodothyronine)",
+      "about": "Free T3 is the unbound triiodothyronine in the blood, playing a crucial role in metabolism.",
+      "normal_range": "2.3 - 4.2 pg/mL",
+      "causes_effects": {
+        "high": "May indicate hyperthyroidism or excessive thyroid hormone intake.",
+        "low": "May indicate hypothyroidism or severe illness."
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Include zinc-rich foods like meat, shellfish, and legumes.",
+            "Consume fruits and vegetables rich in antioxidants."
+          ],
+          "don't": [
+            "Avoid processed foods and sugars.",
+            "Limit exposure to environmental toxins and pollutants."
+          ]
+        },
+        "exercises": {
+          "do": [
+            "Engage in regular aerobic exercises to boost metabolism.",
+            "Incorporate breathing exercises to improve oxygenation."
+          ],
+          "don't": [
+            "Avoid extreme temperatures during exercise.",
+            "Do not skip warm-up and cool-down sessions."
+          ]
+        }
+      }
+    },
+    {
+      "name": "TPO Antibodies (Thyroid Peroxidase Antibodies)",
+      "about": "TPO antibodies indicate an autoimmune response against thyroid peroxidase, an enzyme in the thyroid gland.",
+      "normal_range": "< 35 IU/mL",
+      "causes_effects": {
+        "high": "May indicate Hashimoto's thyroiditis or Graves' disease.",
+        "low": "Typically no clinical significance."
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Follow an anti-inflammatory diet including omega-3 fatty acids.",
+            "Eat fermented foods to support gut health."
+          ],
+          "don't": [
+            "Avoid gluten if you have Hashimoto's thyroiditis.",
+            "Limit intake of refined grains and sugars."
+          ]
+        },
+        "exercises": {
+          "do": [
+            "Practice gentle exercises like walking or swimming.",
+            "Incorporate stretching and mobility exercises."
+          ],
+          "don't": [
+            "Avoid high-impact or overly strenuous activities.",
+            "Do not ignore signs of fatigue or discomfort."
+          ]
+        }
+      }
+    }
+  ]
+}

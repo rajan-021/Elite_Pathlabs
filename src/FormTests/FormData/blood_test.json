@@ -1,0 +1,181 @@
+{
+  "BloodTestParameters": [
+    {
+      "Name": "Hemoglobin (Hb)",
+      "About": "A protein in red blood cells that carries oxygen throughout the body.",
+      "NormalRange": {
+        "Men": "13.8–17.2 g/dL",
+        "Women": "12.1–15.1 g/dL"
+      },
+      "CausesEffects": {
+        "HighHemoglobin": "Dehydration, lung disease, polycythemia vera.",
+        "LowHemoglobin": "Anemia, blood loss, nutritional deficiencies."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Consume iron-rich foods like red meat, beans, and spinach; vitamin C-rich foods to enhance iron absorption.",
+          "Donts": "Avoid excessive caffeine and calcium during iron-rich meals as they can inhibit absorption."
+        },
+        "Exercises": {
+          "Dos": "Moderate aerobic exercises like walking, jogging, and cycling; strength training to improve oxygen utilization.",
+          "Donts": "Avoid extreme endurance exercises that could exacerbate anemia."
+        }
+      }
+    },
+    {
+      "Name": "White Blood Cell (WBC) Count",
+      "About": "Cells that are part of the immune system and help fight infections.",
+      "NormalRange": "4,500–11,000 cells/mcL",
+      "CausesEffects": {
+        "HighWBC": "Infection, inflammation, stress, leukemias.",
+        "LowWBC": "Increased risk of infections, bone marrow problems, autoimmune diseases."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat vitamin C-rich foods like oranges and strawberries; zinc-rich foods like beef and shellfish.",
+          "Donts": "Avoid excessive alcohol and sugary foods that can suppress immune function."
+        },
+        "Exercises": {
+          "Dos": "Regular moderate exercise like brisk walking, swimming, and yoga.",
+          "Donts": "Avoid overtraining and extremely strenuous activities that can suppress the immune system."
+        }
+      }
+    },
+    {
+      "Name": "Platelet Count",
+      "About": "Cells that help with blood clotting and wound healing.",
+      "NormalRange": "150,000–450,000 platelets/mcL",
+      "CausesEffects": {
+        "HighPlatelets": "Risk of blood clots, thrombocytosis, cardiovascular events.",
+        "LowPlatelets": "Increased risk of bleeding, bruising, petechiae."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat vitamin K-rich foods like leafy greens; omega-3 fatty acids from fish and flaxseeds.",
+          "Donts": "Avoid excessive alcohol and processed foods."
+        },
+        "Exercises": {
+          "Dos": "Low-impact exercises like walking and swimming; gentle stretching and yoga.",
+          "Donts": "Avoid contact sports and high-impact activities that can cause injury."
+        }
+      }
+    },
+    {
+      "Name": "Total Cholesterol",
+      "About": "A measure of the total amount of cholesterol in your blood, including LDL and HDL.",
+      "NormalRange": "Less than 200 mg/dL",
+      "CausesEffects": {
+        "HighCholesterol": "Increased risk of heart disease, stroke, and atherosclerosis.",
+        "LowCholesterol": "Rare, but can be related to malnutrition or liver disease."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat foods high in soluble fiber like oats and beans; healthy fats like avocados and nuts.",
+          "Donts": "Avoid trans fats and excessive saturated fats found in fried and processed foods."
+        },
+        "Exercises": {
+          "Dos": "Cardiovascular exercises like running, cycling, and swimming; resistance training.",
+          "Donts": "Avoid a sedentary lifestyle."
+        }
+      }
+    },
+    {
+      "Name": "Fasting Blood Glucose",
+      "About": "A measure of the glucose levels in your blood after fasting for at least 8 hours.",
+      "NormalRange": "70–99 mg/dL",
+      "CausesEffects": {
+        "HighBloodGlucose": "Diabetes, increased risk of cardiovascular disease, nerve damage.",
+        "LowBloodGlucose": "Hypoglycemia, causing dizziness, confusion, fainting."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat low glycemic index foods like whole grains and non-starchy vegetables; lean proteins.",
+          "Donts": "Avoid sugary snacks, refined carbs, and excessive alcohol."
+        },
+        "Exercises": {
+          "Dos": "Aerobic exercises like brisk walking, jogging, and dancing; strength training.",
+          "Donts": "Avoid prolonged periods of inactivity."
+        }
+      }
+    },
+    {
+      "Name": "Creatinine",
+      "About": "A waste product from muscle metabolism that is filtered by the kidneys.",
+      "NormalRange": {
+        "Men": "0.74–1.35 mg/dL",
+        "Women": "0.59–1.04 mg/dL"
+      },
+      "CausesEffects": {
+        "HighCreatinine": "Kidney dysfunction, dehydration, muscle breakdown.",
+        "LowCreatinine": "Low muscle mass, certain muscle diseases."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Stay hydrated with plenty of water; reduce protein intake if levels are high (consult a doctor).",
+          "Donts": "Avoid excessive protein and salt intake."
+        },
+        "Exercises": {
+          "Dos": "Moderate aerobic exercises like walking and cycling.",
+          "Donts": "Avoid excessive high-intensity exercises if creatinine is high."
+        }
+      }
+    },
+    {
+      "Name": "Vitamin D",
+      "About": "A vitamin that helps with calcium absorption and bone health.",
+      "NormalRange": "20–50 ng/mL",
+      "CausesEffects": {
+        "HighVitaminD": "Hypercalcemia, causing nausea, weakness, kidney problems.",
+        "LowVitaminD": "Bone pain, muscle weakness, increased risk of fractures."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat fatty fish like salmon; fortified foods like milk and cereals.",
+          "Donts": "Avoid excessive intake of vitamin D supplements without medical advice."
+        },
+        "Exercises": {
+          "Dos": "Outdoor activities like walking or running to get sunlight exposure; weight-bearing exercises.",
+          "Donts": "Avoid excessive sun exposure without protection."
+        }
+      }
+    },
+    {
+      "Name": "Calcium",
+      "About": "A mineral essential for bone health, muscle function, and nerve signaling.",
+      "NormalRange": "8.5–10.2 mg/dL",
+      "CausesEffects": {
+        "HighCalcium": "Hypercalcemia, leading to kidney stones, bone pain, abdominal pain.",
+        "LowCalcium": "Osteoporosis, muscle cramps, numbness."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Eat dairy products like milk, cheese, yogurt; leafy greens and fortified plant-based milk.",
+          "Donts": "Avoid excessive caffeine and high-sodium foods."
+        },
+        "Exercises": {
+          "Dos": "Weight-bearing exercises like walking, jogging, dancing; strength training.",
+          "Donts": "Avoid high-impact activities that may cause fractures if bones are weak."
+        }
+      }
+    },
+    {
+      "Name": "Thyroid-Stimulating Hormone (TSH)",
+      "About": "A hormone that stimulates the thyroid gland to produce thyroid hormones.",
+      "NormalRange": "0.4–4.0 mIU/L",
+      "CausesEffects": {
+        "HighTSH": "Hypothyroidism, causing fatigue, weight gain, depression.",
+        "LowTSH": "Hyperthyroidism, leading to weight loss, rapid heart rate, anxiety."
+      },
+      "Recommendations": {
+        "Foods": {
+          "Dos": "Consume iodine-rich foods like fish and dairy; selenium-rich foods like Brazil nuts.",
+          "Donts": "Avoid excessive soy products and goitrogenic foods like raw cruciferous vegetables if you have thyroid issues."
+        },
+        "Exercises": {
+          "Dos": "Regular moderate exercise like walking and swimming; yoga.",
+          "Donts": "Avoid extreme physical stress and high-intensity workouts if thyroid function is imbalanced."
+        }
+      }
+    }
+  ]
+}

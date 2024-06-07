@@ -1,0 +1,313 @@
+{
+  "fullBodyCheckupParameters": [
+    {
+      "name": "Complete Blood Count (CBC)",
+      "about": "Measures the levels of different cells in the blood, including red blood cells, white blood cells, and platelets.",
+      "normalRanges": {
+        "Red Blood Cells (RBC)": "4.7-6.1 million cells/µL",
+        "White Blood Cells (WBC)": "4,500-11,000 cells/µL",
+        "Platelets": "150,000-450,000 platelets/µL"
+      },
+      "causesEffects": {
+        "High RBC": "Dehydration, heart disease, polycythemia vera",
+        "Low RBC": "Anemia, hemorrhage, bone marrow failure",
+        "High WBC": "Infection, inflammation, leukemia",
+        "Low WBC": "Bone marrow disorders, autoimmune conditions",
+        "High Platelets": "Thrombocytosis, inflammation, splenectomy",
+        "Low Platelets": "Thrombocytopenia, leukemia, viral infections"
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Iron-rich foods like spinach, red meat, beans",
+            "Vitamin C-rich foods like citrus fruits",
+            "B12 and folate-rich foods like eggs, dairy, and leafy greens"
+          ],
+          "dont": ["Excessive alcohol", "Refined sugars", "Processed foods"]
+        },
+        "exercises": {
+          "do": [
+            "Moderate aerobic exercise",
+            "Strength training",
+            "Yoga and stretching"
+          ],
+          "dont": [
+            "Overexertion",
+            "High-intensity workouts without proper recovery",
+            "Contact sports if platelets are low"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Lipid Profile",
+      "about": "Measures cholesterol levels in the blood, including HDL, LDL, and triglycerides.",
+      "normalRanges": {
+        "Total Cholesterol": "Less than 200 mg/dL",
+        "HDL (Good Cholesterol)": "40-60 mg/dL",
+        "LDL (Bad Cholesterol)": "Less than 100 mg/dL",
+        "Triglycerides": "Less than 150 mg/dL"
+      },
+      "causesEffects": {
+        "High Total Cholesterol": "Risk of heart disease, stroke",
+        "Low HDL": "Increased risk of heart disease",
+        "High LDL": "Atherosclerosis, heart attack, stroke",
+        "High Triglycerides": "Pancreatitis, metabolic syndrome"
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Oats, fatty fish, nuts",
+            "Olive oil, avocado",
+            "Fruits and vegetables"
+          ],
+          "dont": [
+            "Trans fats, saturated fats",
+            "Sugary foods",
+            "Processed meats"
+          ]
+        },
+        "exercises": {
+          "do": [
+            "Aerobic exercises like walking, jogging",
+            "Cycling, swimming",
+            "Strength training"
+          ],
+          "dont": [
+            "Sedentary lifestyle",
+            "High-stress activities without relaxation",
+            "Excessive endurance training without balance"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Liver Function Tests (LFT)",
+      "about": "Measures enzymes and proteins in the blood to assess liver health.",
+      "normalRanges": {
+        "ALT": "7-56 units/L",
+        "AST": "10-40 units/L",
+        "ALP": "44-147 units/L",
+        "Bilirubin": "0.1-1.2 mg/dL",
+        "Albumin": "3.5-5.0 g/dL"
+      },
+      "causesEffects": {
+        "High ALT/AST": "Liver damage, hepatitis, alcohol abuse",
+        "High ALP": "Liver disease, bone disorders",
+        "High Bilirubin": "Jaundice, liver dysfunction",
+        "Low Albumin": "Liver disease, malnutrition, chronic illness"
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Lean proteins, whole grains",
+            "Fruits and vegetables",
+            "Hydration"
+          ],
+          "dont": ["Alcohol", "High-fat foods", "Sugary drinks"]
+        },
+        "exercises": {
+          "do": [
+            "Low to moderate-intensity exercise",
+            "Walking, yoga",
+            "Swimming"
+          ],
+          "dont": [
+            "High-intensity workouts if liver function is compromised",
+            "Exercises that increase abdominal pressure",
+            "Heavy lifting"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Kidney Function Tests",
+      "about": "Measures levels of waste products in the blood to assess kidney health.",
+      "normalRanges": {
+        "Creatinine": "0.6-1.2 mg/dL",
+        "Blood Urea Nitrogen (BUN)": "7-20 mg/dL",
+        "eGFR": "90-120 mL/min/1.73m²"
+      },
+      "causesEffects": {
+        "High Creatinine": "Kidney dysfunction, dehydration",
+        "High BUN": "Kidney disease, high protein intake",
+        "Low eGFR": "Chronic kidney disease"
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Low-sodium foods",
+            "Fresh fruits and vegetables",
+            "Adequate hydration"
+          ],
+          "dont": ["High-protein diet", "Excessive salt", "Processed foods"]
+        },
+        "exercises": {
+          "do": ["Moderate aerobic exercise", "Walking, cycling", "Stretching"],
+          "dont": [
+            "High-intensity interval training",
+            "Dehydrating activities",
+            "Heavy weightlifting"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Thyroid Function Tests",
+      "about": "Measures levels of thyroid hormones to assess thyroid gland function.",
+      "normalRanges": {
+        "TSH": "0.4-4.0 mIU/L",
+        "Free T4": "0.9-1.7 ng/dL",
+        "Free T3": "2.3-4.1 pg/mL"
+      },
+      "causesEffects": {
+        "High TSH": "Hypothyroidism",
+        "Low TSH": "Hyperthyroidism",
+        "High Free T4/T3": "Hyperthyroidism, thyroiditis",
+        "Low Free T4/T3": "Hypothyroidism"
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Iodine-rich foods like fish, dairy",
+            "Selenium-rich foods like Brazil nuts",
+            "Antioxidant-rich fruits and vegetables"
+          ],
+          "dont": [
+            "Soy products",
+            "Excessive cruciferous vegetables",
+            "Gluten (for some individuals)"
+          ]
+        },
+        "exercises": {
+          "do": [
+            "Low-impact aerobic exercises",
+            "Yoga, pilates",
+            "Strength training"
+          ],
+          "dont": [
+            "High-intensity workouts if thyroid levels are unbalanced",
+            "Extreme endurance exercises",
+            "Skipping rest days"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Blood Glucose Test",
+      "about": "Measures the level of glucose in the blood to assess for diabetes or prediabetes.",
+      "normalRanges": {
+        "Fasting Blood Sugar": "70-99 mg/dL",
+        "Postprandial Blood Sugar": "Less than 140 mg/dL",
+        "HbA1c": "Less than 5.7%"
+      },
+      "causesEffects": {
+        "High Fasting Blood Sugar": "Diabetes, stress, certain medications",
+        "Low Fasting Blood Sugar": "Hypoglycemia, endocrine disorders",
+        "High HbA1c": "Chronic high blood sugar levels, diabetes"
+      },
+      "recommendations": {
+        "foods": {
+          "do": [
+            "Low glycemic index foods",
+            "Whole grains, lean proteins",
+            "Non-starchy vegetables"
+          ],
+          "dont": [
+            "Sugary foods and drinks",
+            "Refined carbs",
+            "High-fat processed foods"
+          ]
+        },
+        "exercises": {
+          "do": [
+            "Regular aerobic exercise",
+            "Strength training",
+            "Consistency in activity"
+          ],
+          "dont": [
+            "Sedentary lifestyle",
+            "Irregular exercise routines",
+            "High-risk activities for hypoglycemia"
+          ]
+        }
+      }
+    },
+    {
+      "name": "Blood Pressure",
+      "about": "Measurement of the force of blood against the artery walls.",
+      "normal_ranges": "90/60 mmHg to 120/80 mmHg",
+      "causes_effects": {
+        "high": "Hypertension, heart disease, stroke risk",
+        "low": "Hypotension, dizziness, fainting"
+      },
+      "recommendations": {
+        "do's": [
+          "Maintain a healthy weight",
+          "Exercise regularly (e.g., walking, swimming)",
+          "Eat a balanced diet rich in fruits and vegetables",
+          "Limit alcohol intake"
+        ],
+        "don'ts": [
+          "Avoid excessive salt intake",
+          "Avoid smoking",
+          "Limit caffeine",
+          "Avoid stress"
+        ]
+      }
+    },
+    {
+      "name": "Cholesterol",
+      "about": "A measure of the fats in the blood, including LDL and HDL cholesterol.",
+      "normal_ranges": {
+        "total": "Less than 200 mg/dL",
+        "LDL": "Less than 100 mg/dL",
+        "HDL": "40 mg/dL or higher"
+      },
+      "causes_effects": {
+        "high": "Increased risk of heart disease and stroke",
+        "low": "May be indicative of health issues but generally less common"
+      },
+      "recommendations": {
+        "do's": [
+          "Eat a heart-healthy diet (e.g., high in fiber, healthy fats)",
+          "Exercise regularly (e.g., aerobic activities)",
+          "Maintain a healthy weight",
+          "Eat fish rich in omega-3 fatty acids"
+        ],
+        "don'ts": [
+          "Avoid trans fats and saturated fats",
+          "Limit intake of red meat and processed meats",
+          "Avoid excessive alcohol consumption",
+          "Avoid smoking"
+        ]
+      }
+    },
+    {
+      "name": "Blood Sugar",
+      "about": "Measurement of glucose levels in the blood, important for diagnosing diabetes.",
+      "normal_ranges": {
+        "fasting": "70-99 mg/dL",
+        "post-meal": "Less than 140 mg/dL"
+      },
+      "causes_effects": {
+        "high": "Hyperglycemia, risk of diabetes, heart disease",
+        "low": "Hypoglycemia, dizziness, confusion, fainting"
+      },
+      "recommendations": {
+        "do's": [
+          "Maintain a balanced diet with complex carbohydrates",
+          "Exercise regularly (e.g., walking, strength training)",
+          "Monitor blood sugar levels",
+          "Stay hydrated"
+        ],
+        "don'ts": [
+          "Avoid sugary foods and drinks",
+          "Avoid skipping meals",
+          "Limit refined carbohydrates",
+          "Avoid excessive alcohol"
+        ]
+      }
+    }
+  ]
+}
