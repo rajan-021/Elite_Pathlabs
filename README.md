@@ -1,16 +1,18 @@
 
-# Smart Doctor/Lab Appointment App
+# Smart Health Appointment and Reporting System
 
-The Doctor/Lab Appointment App is a modern and user-friendly web application. It simplifies the process of scheduling and managing appointments with healthcare/lab professionals. With a clean and intuitive interface, users can easily register, log in, and book appointments, while healthcare providers can efficiently manage their schedules. This app aims to streamline the healthcare/lab appointment booking process, making it convenient and hassle-free for both patients and medical practitioners.
-It has a Smart Lab Report generation system which provide SMART REPORT according to lab test data.
+The Smart Health Appointment and Reporting System is a modern and user-friendly web application.
+It has a Smart Lab Report generation system which provide SMART HEALTH REPORT according to lab test data.
+It simplifies the process of scheduling and managing appointments with healthcare/lab professionals, with a clean and intuitive interface, users can easily register, log in, and book appointments, while healthcare providers can efficiently manage their schedules. This app aims to streamline the healthcare/lab appointment booking process, making it convenient and hassle-free for both patients and medical practitioners.
+
 
 ## Features
 
 - User registration and authentication
 - Appointment scheduling
+- Smart Lab Report generation system
 - Notification reminder
 - User-friendly interface
-- Smart Lab Report generation system
 - Responsive design
 - Review System
 
@@ -27,11 +29,13 @@ npm run dev
 
 [Backend Repository Link](https://github.com/rajan-021/elite_pathlabs_backend)
 
+
 ## Tech Stack
 
 **Client:** React, Contextapi, TailwindCSS
 
 **Server:** Node, Express, mongoDB
+
 
 ## Screenshots of the Project
 
