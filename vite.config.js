@@ -5,7 +5,8 @@ import pluginRewriteAll from "vite-plugin-rewrite-all"
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react(), pluginRewriteAll()],
-  base:"/elite_pathlabs/",
+  // base:"/elite_pathlabs/",
+  base:"/",
   server: {
     port: 3000,
   },
